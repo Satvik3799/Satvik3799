@@ -1,5 +1,5 @@
 # About Me:
-I used to be an Embedded Hardware Design Engineer at a Start-up company. <br> I am a PG student at IIT Bombay <br> I’m interested in Computer Architecture and Digital IC Design.<br> 
+I used to be an Embedded Hardware Design Engineer at a Start-up company. <br> I am a PG student at IIT Bombay <br> I’m interested in Computer Architecture, Digital IC Design and Embedded Systems.<br> 
 
 
 ##  Socials:
